@@ -1,0 +1,66 @@
+.cabecalho{
+    background-image: url("imagens/icone1.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 280px;
+    height: 253px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: center;
+}  
+body{
+    text-align: center;
+    margin: 0;
+    background-color: rgb(6, 65, 16);
+}
+.rodape{
+    text-align: center;
+    margin: 0;
+    background-image: url("imagens/icone2.png");
+    width: 369px;
+    background-repeat: no-repeat;
+    height: 999px;
+    background-position-x: center;
+}
+.elenco{
+    background-image: url("imagens/fundo2.png");
+    background-repeat: repeat;
+    text-align: center;
+    column-count: 2;
+    margin-right: 19px;
+    margin-left: 19px;
+    margin-top: 19px;
+} 
+.imagem{
+    column-count: 2;
+    margin-right: 19px;
+    margin-left: 19px;
+    margin-top: 19px;
+    text-align: center;
+}
+.texto{
+    text-align: justify;
+}
+.home{
+    text-align: right;
+}
+.menu{
+    text-align: center;
+}
+.paginacad{
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    width: 280px;
+    height: 253px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
